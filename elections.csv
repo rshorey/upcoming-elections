@@ -23,8 +23,8 @@ OK,,State House,46,OK state house special primary,primary,20170711
 OK,,State Senate,44,OK state senate special primary,primary,20170711
 RI,,State Senate,13,RI state senate special primary,primary,20170718
 MA,,State Senate,Middlesex-4,MA state senate special general,general,20170725
-OK,State Senate,45,OK state senate special primary,primary,20170808
-OK,State House,76,OK state house special primary,primary,20170808
+OK,,State Senate,45,OK state senate special primary,primary,20170808
+OK,,State House,76,OK state house special primary,primary,20170808
 RI,,State Senate,13,RI state senate special general,general,20170822
 OK,,State House,46,OK state house special general,general,20170912
 OK,,State Senate,44,OK state senate special general,general,20170912
@@ -33,6 +33,6 @@ NJ,,State House,all,NJ General Assembly all seats,general,20171107
 NJ,,State Senate,all,NJ Senate all seats,general,20171107
 VA,,Governor,,VA Governor general,general,20171107
 VA,,State House,all,VA House of Delegates all seats,general,20171107
-OK,State Senate,45,OK state senate special general,general,20171114
-OK,State House,76,OK state house special general,general,20171114
+OK,,State Senate,45,OK state senate special general,general,20171114
+OK,,State House,76,OK state house special general,general,20171114
 
