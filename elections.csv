@@ -1,55 +1,55 @@
-state,city,body,district,text_description,type,date
-PA,,State House,197,PA state house special general,general,20170321
-LA,,State House,8,LA state house special general,general,20170325
-CA,,US House,34,CA34 special jungle primary,primary,20170404
-KS,,US House,4,KS4 special general,general,20170411
-GA,,US House,6,GA6 special general,general,20170418
-CT,,State House,7,CT general assembly special general,general,20170425
-CT,,State House,68,CT general assembly special general,general,20170425
-TN,,State House,95,TN state house special primary,primary,20170427
-LA,,State Senate,2,LA state senate special general,general,20170429
-SC,,US House,5,SC5 special primary,primary,20170502
-NY,,State House,9,NY general assembly special general,general,20170523
-MT,,US House,AL,MT at-large special general,general,20170525
-LA,,State Senate,2,LA state senate special runoff,runoff,20170527
-CA,,US House,34,CA34 special general,general,20170606
-NJ,,Governor,,NJ Governor primary; both parties,primary,20170606
-VA,,Governor,,VA Governor primary; both parties; open,primary,20170613
-TN,,State House,95,TN state house special general,general,20170615
-GA,,US House,6,GA6 special runoff,runoff,20170620
-SC,,US House,5,SC5 special general,general,20170620
-MA,,State Senate,Middlesex-4,MA state senate special primary,primary,20170627
-OK,,State House,46,OK state house special primary,primary,20170711
-OK,,State Senate,44,OK state senate special primary,primary,20170711
-RI,,State Senate,13,RI state senate special primary,primary,20170718
-MA,,State Senate,Middlesex-4,MA state senate special general,general,20170725
-FL,,State Senate,40,FL state senate special primary,primary,20170725
-MS,,State House,108,MS state house special general (jungle),general,20170725
-OK,,State Senate,45,OK state senate special primary,primary,20170808
-OK,,State House,76,OK state house special primary,primary,20170808
-AL,,Senate,,AL US Senate special primary,primary,20170815
-MS,,State House,108,MS state house special runoff (if no one gets 50% in the jungle-style general),runoff,20170815
-RI,,State Senate,13,RI state senate special general,general,20170822
-OK,,State House,46,OK state house special general,general,20170912
-OK,,State Senate,44,OK state senate special general,general,20170912
-MA,,State Senate,Norflk-and-Bristol,MA state senate special primary,primary,20170919
-FL,,State Senate,40,FL state senate special general,general,20170926
-AL,,Senate,,AL US Senate special primary runoff,runoff,20170926
-MA,,State Senate,Norflk-and-Bristol,MA state senate special general,general,20171017
-NJ,,Governor,,NJ Governor general,general,20171107
-NJ,,State House,all,NJ General Assembly all seats,general,20171107
-NJ,,State Senate,all,NJ Senate all seats,general,20171107
-VA,,Governor,,VA Governor general,general,20171107
-VA,,State House,all,VA House of Delegates all seats,general,20171107
-WA,,State Senate,7,WA Senate special general,general,20171107
-WA,,State Senate,31,WA Senate special general,general,20171107
-WA,,State Senate,37,WA Senate special general,general,20171107
-WA,,State Senate,45,WA Senate special general,general,20171107
-WA,,State Senate,48,WA Senate special general,general,20171107
-WA,,State House,7,WA House special general,general,20171107
-WA,,State House,31,WA House special general,general,20171107
-WA,,State House,48,WA House special general,general,20171107
-OK,,State Senate,45,OK state senate special general,general,20171114
-OK,,State House,76,OK state house special general,general,20171114
-AL,,Senate,,AL US Senate special general,general,20171212
-
+state,city,body,district,text_description,type,date,source
+PA,,State House,197,PA state house special general,general,20170321,
+LA,,State House,8,LA state house special general,general,20170325,
+CA,,US House,34,CA34 special jungle primary,primary,20170404,
+KS,,US House,4,KS4 special general,general,20170411,
+GA,,US House,6,GA6 special general,general,20170418,
+CT,,State House,7,CT general assembly special general,general,20170425,
+CT,,State House,68,CT general assembly special general,general,20170425,
+TN,,State House,95,TN state house special primary,primary,20170427,
+LA,,State Senate,2,LA state senate special general,general,20170429,
+SC,,US House,5,SC5 special primary,primary,20170502,
+NY,,State House,9,NY general assembly special general,general,20170523,
+MT,,US House,AL,MT at-large special general,general,20170525,
+LA,,State Senate,2,LA state senate special runoff,runoff,20170527,
+CA,,US House,34,CA34 special general,general,20170606,
+NJ,,Governor,,NJ Governor primary; both parties,primary,20170606,
+VA,,Governor,,VA Governor primary; both parties; open,primary,20170613,
+TN,,State House,95,TN state house special general,general,20170615,
+GA,,US House,6,GA6 special runoff,runoff,20170620,
+SC,,US House,5,SC5 special general,general,20170620,
+MA,,State Senate,Middlesex-4,MA state senate special primary,primary,20170627,
+IA,,State House,22,IA state house special general,general,20170627,http://www.nonpareilonline.com/news/local/special-election-to-be-held-for-open-district-seat/article_672faeb8-39cb-11e7-a5d1-8b894dfa57d3.html
+OK,,State House,46,OK state house special primary,primary,20170711,
+OK,,State Senate,44,OK state senate special primary,primary,20170711,
+RI,,State Senate,13,RI state senate special primary,primary,20170718,
+MA,,State Senate,Middlesex-4,MA state senate special general,general,20170725,
+FL,,State Senate,40,FL state senate special primary,primary,20170725,
+MS,,State House,108,MS state house special general (jungle),general,20170725,
+OK,,State Senate,45,OK state senate special primary,primary,20170808,
+OK,,State House,76,OK state house special primary,primary,20170808,
+AL,,Senate,,AL US Senate special primary,primary,20170815,
+MS,,State House,108,MS state house special runoff (if no one gets 50% in the jungle-style general),runoff,20170815,
+RI,,State Senate,13,RI state senate special general,general,20170822,
+OK,,State House,46,OK state house special general,general,20170912,
+OK,,State Senate,44,OK state senate special general,general,20170912,
+MA,,State Senate,Norflk-and-Bristol,MA state senate special primary,primary,20170919,
+FL,,State Senate,40,FL state senate special general,general,20170926,
+AL,,Senate,,AL US Senate special primary runoff,runoff,20170926,
+MA,,State Senate,Norflk-and-Bristol,MA state senate special general,general,20171017,
+NJ,,Governor,,NJ Governor general,general,20171107,
+NJ,,State House,all,NJ General Assembly all seats,general,20171107,
+NJ,,State Senate,all,NJ Senate all seats,general,20171107,
+VA,,Governor,,VA Governor general,general,20171107,
+VA,,State House,all,VA House of Delegates all seats,general,20171107,
+WA,,State Senate,7,WA Senate special general,general,20171107,
+WA,,State Senate,31,WA Senate special general,general,20171107,
+WA,,State Senate,37,WA Senate special general,general,20171107,
+WA,,State Senate,45,WA Senate special general,general,20171107,
+WA,,State Senate,48,WA Senate special general,general,20171107,
+WA,,State House,7,WA House special general,general,20171107,
+WA,,State House,31,WA House special general,general,20171107,
+WA,,State House,48,WA House special general,general,20171107,
+OK,,State Senate,45,OK state senate special general,general,20171114,
+OK,,State House,76,OK state house special general,general,20171114,
+AL,,Senate,,AL US Senate special general,general,20171212,
